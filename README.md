@@ -1,5 +1,7 @@
 ### html-base-tagger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/html-base-tagger.svg)](https://greenkeeper.io/)
+
 Transform stream to insert a base tag into html
 
 ```js
